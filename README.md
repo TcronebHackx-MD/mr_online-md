@@ -1,10 +1,14 @@
-# TCRONEB-HACKX-MD X
+# TCRONEB-HACKX-MD
 
 The official Whatsapp Bot.
 
-## Deploy Your Own
+## SCAN YOUR SESSION_ID
 
-[![Deploy with Vercel]([htt](https://whatsapp.com/channel/0029Vafg8mVLtOj6eAvlZO0w/212)
+click down to scan 👇
+
+https://mr-online-md.onrender.com
+
+[Deploy Render]
 
 ## Developing
 
