@@ -1,4 +1,6 @@
-• 👾MR ONLINE MD V1 WHATSAPP BOT📡
+• 👾MR ONLINE MD V1 WHATSAPP BOT
+
+<a><img src='https://imgur.com/a/Zya6ltz.gif/></a><a><img
 
 • REPO
 
