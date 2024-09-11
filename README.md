@@ -1,7 +1,10 @@
 <a><img src='https://imgur.com/tB6NTSu.gif'/></a><a>
+<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕1 
 
 
-<p align="center">                                              MR-ONLINE-𝐌𝐃-V1
+</p>
+<p align="center"> 
+  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><p align="center">                                              MR-ONLINE-𝐌𝐃-V1
 
 • REPO
 
