@@ -1,38 +1,83 @@
-# MR•ONLINE-MD
+👾MR~ONLINE~MD ~WHATSAPP~BOT📡
 
-The official Whatsapp Bot.
+                                    V1
 
-## SCAN YOUR SESSION_ID
+REPO
 
-click down to scan 👇
 
-https://mr-online-md.onrender.com
 
-[Deploy Render]
+𝐒𝐄𝐓𝐔𝐏
 
-## Developing
+1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-```bash
-npm run dev
+How To Deploy On Github.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+• Create a new file [.github/workflows/deploye.yml] After created, copy this code👇🏽and paste it there
+name: Node.js CI
 
-To create a production version of your app:
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
-```bash
-npm run build
-```
+jobs:
+  build:
 
-You can preview the production build with `npm run preview`.
+    runs-on: ubuntu-latest
 
-## Speed Insights
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-Once deployed on Vercel, you can benefit from [Speed Insights](https://vercel.com/docs/concepts/speed-insights) simply by navigating to Vercel's dashboard, clicking on the 'Speed Insights' tab, and enabling the product.
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-You will get data once your application will be re-deployed and will receive visitors.
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+
+DEPLOY TO HEROKU
+
+1. If You don't have a account in Heroku. Create a account.  
+
+2.  
+3. Now Deploy  
+
+DEPLOY TO KOYEB
+
+1. If You don't have a account in koyeb. Create a account.  
+
+2. Get Koyeb api key
+3. Now Deploy  
+
+DEPLOY ON RAILWAY
+
+1. If You don't have a account in Railway. Create a account.  
+
+2. Now Deploy  
+
+DEPLOY ON MOGENIUS
+
+1. If You don't have a account in Replit. Create a account.  
+
+2. Now Deploy  
+
+Do not forget to give a star⭐️ please
+A special thank to
+
+
+* Contact Dev of MR~ONLINE~MD🤪  
+* TCRONEB~HACKX
