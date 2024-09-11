@@ -5,8 +5,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vafg8mVLtOj6eAvlZO0w"><p
-
-• REPO
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MR-ONLINE-MD+MADE+IN+ZIMBABWE+🇿🇼🔥" alt="Typing SVG" /></a>
 
 
 • 𝐒𝐄𝐓𝐔𝐏
