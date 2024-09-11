@@ -1,12 +1,11 @@
-👾MR~ONLINE~MD ~WHATSAPP~BOT📡
+• 👾MR~ONLINE~MD WHATSAPP BOT📡
 
-                                    V1
+                                    • V1
 
-REPO
+• REPO
 
 
-
-𝐒𝐄𝐓𝐔𝐏
+• 𝐒𝐄𝐓𝐔𝐏
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
@@ -49,14 +48,14 @@ jobs:
     - name: Start application
       run: npm start
 
-DEPLOY TO HEROKU
+• DEPLOY TO HEROKU
 
 1. If You don't have a account in Heroku. Create a account.  
 
 2.  
 3. Now Deploy  
 
-DEPLOY TO KOYEB
+• DEPLOY TO KOYEB
 
 1. If You don't have a account in koyeb. Create a account.  
 
@@ -79,5 +78,5 @@ Do not forget to give a star⭐️ please
 A special thank to
 
 
-* Contact Dev of MR~ONLINE~MD🤪  
-* TCRONEB~HACKX
+• Contact Dev of MR ONLINE MD🤪  
+• TCRONEB~HACKX
