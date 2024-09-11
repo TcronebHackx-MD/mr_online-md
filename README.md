@@ -1,6 +1,4 @@
-• 👾MR~ONLINE~MD WHATSAPP BOT📡
-
-                                    • V1
+• 👾MR ONLINE MD V1 WHATSAPP BOT📡
 
 • REPO
 
@@ -79,4 +77,5 @@ A special thank to
 
 
 • Contact Dev of MR ONLINE MD🤪  
+
 • TCRONEB~HACKX
