@@ -1,4 +1,4 @@
-<a><img src='https://imgur.com/a/colmAMh.gif'/></a><a><img src='https://i.imgur.com/colmAMh.gif'/></a>
+<a><img src='https://imgur.com/tB6NTSu.gif'/></a><a><img src='https://imgur.com/tB6NTSu.gif'/></a>
 
 
 <p align="center">                                              MR-ONLINE-𝐌𝐃-V1
