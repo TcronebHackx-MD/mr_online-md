@@ -1,4 +1,4 @@
-<a><img src='https://imgur.com/tB6NTSu.gif'/></a><a><img
+<a><img src='https://imgur.com/tB6NTSu.gif'/></a><a>
 
 
 <p align="center">                                              MR-ONLINE-𝐌𝐃-V1
