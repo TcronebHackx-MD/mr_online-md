@@ -9,8 +9,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MR-ONLINE MD+MADE+IN+ZIMBABWE+🇿🇼🔥" alt="Typing SVG" /></a>
 
 
-• 𝐒𝐄𝐓𝐔𝐏
-
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
 
